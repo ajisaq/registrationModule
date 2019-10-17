@@ -25,7 +25,7 @@ pip install django pillow
 
 > Update pip (optional)
 
-```
+```bash
 pip install --upgrade pip
 
 ```
