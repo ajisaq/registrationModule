@@ -1,6 +1,6 @@
 # Workers Record Management System
 
-## The project is now being converted to use pure bootstrap library
+## The project is now fully converted to use pure bootstrap library
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install all requirements.
 
